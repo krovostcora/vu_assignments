@@ -2,8 +2,8 @@
 >##### The assignments are organized into folders, though the structure might appear a bit messy
 
 #### Subjects:
-- Systemic Programming
+- Systemic Programming (Assembly)
 - Network Programming
 - Software Process
-- Management of Software Projects
+- Management of Software Projects (SP managmant)
 - E-services for Business Management Algorithms (?)
