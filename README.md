@@ -1,3 +1,2 @@
-#### Java files from a course of Network Programming, 
-#### from year3 s1
-##### Assignments are inside of the folders + folders could be a bit messy
+#### Here you can find all my work from the ***1st semester*** of my ***3rd year*** classes
+>##### The assignments are organized into folders, though the structure might appear a bit messy
