@@ -1,7 +1,0 @@
-Cone 1: Radius: 1.0, Height: 2.0, Area: 10.166407384630519, Volume: 2.0943951023931953
-Cone 2: Radius: 2.0, Height: 3.0, Area: 35.22071741263713, Volume: 12.566370614359172
-Cone 3: Radius: 3.0, Height: 4.0, Area: 75.39822368615503, Volume: 37.69911184307752
-Cone 4: Radius: 4.0, Height: 5.0, Area: 130.72951471480383, Volume: 83.7758040957278
-Cone 5: Radius: 5.0, Height: 6.0, Area: 201.22293136239685, Volume: 157.07963267948963
-Cone 6: Radius: 6.0, Height: 7.0, Area: 286.8816543480875, Volume: 263.89378290154264
-Cone 7: Radius: 7.0, Height: 8.0, Area: 387.7071559690282, Volume: 410.5014400690663
