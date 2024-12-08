@@ -1,0 +1,4 @@
+TASK 6 (Project.zip): Count how many letters are in the word entered from the keyboard. Calculated number shows how many times to repead on the screen Your name. Before printing one character is entered ffrom keyboar, if the letter C was entered, then your name is printed in a column, and L - in a line, leaving spaces between the Your names.
+
+TASK 7: Text is entered in the main window. When the button is clicked, the characters entered are counted and the answer is written in a pop-up window
+

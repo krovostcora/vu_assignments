@@ -1,0 +1,10 @@
+TASK 1: Form a pyramid from the first and last name, your first and last name is pyramid base, going from base to top of pyramid substruct two letters at the time in every next line
+
+TASK 2: Count how many letters are in the word entered from the keyboard. Calculated number shows how many times to repeat on the screen Your name. Before printing one character is entered from keyboard, if the letter C was entered, then your name is printed in a column, and L - in a line, leaving spaces between the Your names.
+
+!!TASK 3: An eye is drawn on the graphic screen, which will closes when you press the letter C, to open eye when you press the letter O, and it is will been drawing in red when you press the R letter. Animation at least using 3 different eye pictures help better to show eye closing and opening process.
+
+TASK 4: The screen displays a list of files found in the current directory. The user chooses which file to open for editing. After that, the list of tasks is displayed on the screen: show the contents of the file on the screen, show the first N lines of file on the screen (N is written from the keyboard), change the specified letter to your name (the letter is entered from the keyboard), count the words (there is only a space between the words), close the file. The corrected file is copied to a subdirectory of your choice.
+
+TASK 5: Your name and surname initial coordinates on the text screen are indicated. The program remembers them. On the text screen, they are represented by the color of the background or their coordinates are remembered in some other way (name and surname are hiden). Moving the mouse cursor over the area containing one of the hidden text (name or surname) and pressing left mouse key will showl it.
+
