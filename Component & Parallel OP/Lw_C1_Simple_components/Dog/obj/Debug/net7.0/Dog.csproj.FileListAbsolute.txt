@@ -1,0 +1,11 @@
+/Users/centr/RiderProjects/Lw_C1_Simple_components/Dog/bin/Debug/net7.0/Dog.deps.json
+/Users/centr/RiderProjects/Lw_C1_Simple_components/Dog/bin/Debug/net7.0/Dog.dll
+/Users/centr/RiderProjects/Lw_C1_Simple_components/Dog/bin/Debug/net7.0/Dog.pdb
+/Users/centr/RiderProjects/Lw_C1_Simple_components/Dog/obj/Debug/net7.0/Dog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/centr/RiderProjects/Lw_C1_Simple_components/Dog/obj/Debug/net7.0/Dog.AssemblyInfoInputs.cache
+/Users/centr/RiderProjects/Lw_C1_Simple_components/Dog/obj/Debug/net7.0/Dog.AssemblyInfo.cs
+/Users/centr/RiderProjects/Lw_C1_Simple_components/Dog/obj/Debug/net7.0/Dog.csproj.CoreCompileInputs.cache
+/Users/centr/RiderProjects/Lw_C1_Simple_components/Dog/obj/Debug/net7.0/Dog.dll
+/Users/centr/RiderProjects/Lw_C1_Simple_components/Dog/obj/Debug/net7.0/refint/Dog.dll
+/Users/centr/RiderProjects/Lw_C1_Simple_components/Dog/obj/Debug/net7.0/Dog.pdb
+/Users/centr/RiderProjects/Lw_C1_Simple_components/Dog/obj/Debug/net7.0/ref/Dog.dll

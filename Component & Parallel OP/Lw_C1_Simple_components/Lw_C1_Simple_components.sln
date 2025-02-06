@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dog", "Dog\Dog.csproj", "{88C88AAC-DC0B-40D8-8576-1F57BF06515D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host", "Host\Host.csproj", "{DCB45856-581F-49A7-9BEB-0E016E5B393C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88C88AAC-DC0B-40D8-8576-1F57BF06515D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C88AAC-DC0B-40D8-8576-1F57BF06515D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C88AAC-DC0B-40D8-8576-1F57BF06515D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C88AAC-DC0B-40D8-8576-1F57BF06515D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB45856-581F-49A7-9BEB-0E016E5B393C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB45856-581F-49A7-9BEB-0E016E5B393C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB45856-581F-49A7-9BEB-0E016E5B393C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB45856-581F-49A7-9BEB-0E016E5B393C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
