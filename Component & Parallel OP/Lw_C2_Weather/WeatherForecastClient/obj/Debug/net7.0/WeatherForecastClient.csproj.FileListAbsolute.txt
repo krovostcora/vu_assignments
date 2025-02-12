@@ -1,0 +1,14 @@
+/Users/centr/RiderProjects/Lw_C2_Weather/WeatherForecastClient/bin/Debug/net7.0/WeatherForecastClient
+/Users/centr/RiderProjects/Lw_C2_Weather/WeatherForecastClient/bin/Debug/net7.0/WeatherForecastClient.deps.json
+/Users/centr/RiderProjects/Lw_C2_Weather/WeatherForecastClient/bin/Debug/net7.0/WeatherForecastClient.runtimeconfig.json
+/Users/centr/RiderProjects/Lw_C2_Weather/WeatherForecastClient/bin/Debug/net7.0/WeatherForecastClient.dll
+/Users/centr/RiderProjects/Lw_C2_Weather/WeatherForecastClient/bin/Debug/net7.0/WeatherForecastClient.pdb
+/Users/centr/RiderProjects/Lw_C2_Weather/WeatherForecastClient/obj/Debug/net7.0/WeatherForecastClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/centr/RiderProjects/Lw_C2_Weather/WeatherForecastClient/obj/Debug/net7.0/WeatherForecastClient.AssemblyInfoInputs.cache
+/Users/centr/RiderProjects/Lw_C2_Weather/WeatherForecastClient/obj/Debug/net7.0/WeatherForecastClient.AssemblyInfo.cs
+/Users/centr/RiderProjects/Lw_C2_Weather/WeatherForecastClient/obj/Debug/net7.0/WeatherForecastClient.csproj.CoreCompileInputs.cache
+/Users/centr/RiderProjects/Lw_C2_Weather/WeatherForecastClient/obj/Debug/net7.0/WeatherForecastClient.dll
+/Users/centr/RiderProjects/Lw_C2_Weather/WeatherForecastClient/obj/Debug/net7.0/refint/WeatherForecastClient.dll
+/Users/centr/RiderProjects/Lw_C2_Weather/WeatherForecastClient/obj/Debug/net7.0/WeatherForecastClient.pdb
+/Users/centr/RiderProjects/Lw_C2_Weather/WeatherForecastClient/obj/Debug/net7.0/WeatherForecastClient.genruntimeconfig.cache
+/Users/centr/RiderProjects/Lw_C2_Weather/WeatherForecastClient/obj/Debug/net7.0/ref/WeatherForecastClient.dll
