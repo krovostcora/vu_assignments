@@ -1,0 +1,15 @@
+<?xml encoding="UTF-8" version="1.0" standalone="yes" ?>
+<!DOCTYPE id_data [
+    <!ELEMENT id_data (name, date_of_birth, bloodgroup?)>
+    <!ELEMENT name (firstname, middlename*, lastname)>
+    <!ELEMENT firstname (#PCDATA)>
+    <!ELEMENT middlename (#PCDATA)>
+    <!ELEMENT lastname (#PCDATA)>
+    <!ELEMENT date_of_birth EMPTY>
+    <!ATTLIST date_of_birth
+        day CDATA #REQUIRED
+        month CDATA #REQUIRED
+        year CDATA #REQUIRED
+    >
+    <!ELEMENT bloodgroup (#PCDATA)>
+]>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - glitch effect by SVG filter</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@600&display=swap" rel="stylesheet"><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<svg class="filter">
+      <filter id="alphaRed">
+        <feColorMatrix mode="matrix" values="1 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 1 0" result="joint" />
+      </filter>
+      <filter id="alphaGreen">
+        <feColorMatrix mode="matrix" values="0 0 0 0 0  0 1 0 0 0  0 0 0 0 0  0 0 0 1 0" result="joint" />
+      </filter>
+      <filter id="alphaBlue">
+        <feColorMatrix mode="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 1 0 0  0 0 0 1 0" result="joint" />
+      </filter>
+      <filter id="alpha">
+        <feColorMatrix type="saturate" values="0"/>
+      </filter>
+    </svg>
+    <div class="page">
+      <h1>HOVER!</h1>
+      <div class="imgWrap">
+        <img class="red" src="https://i.postimg.cc/bwyN4CTz/img.jpg">
+        <img class="green" src="https://i.postimg.cc/bwyN4CTz/img.jpg">
+        <img class="blue" src="https://i.postimg.cc/bwyN4CTz/img.jpg">
+        <p class="text"><span>Glitch effect!</span></p>
+      </div>
+    </div>
+<!-- partial -->
+  
+</body>
+</html>
