@@ -1,9 +1,8 @@
-#### Here you can find my work from my *** classes in uni***
+#### Here you can find my work from my ***classes in uni***
 >##### The assignments are organized into folders, though the structure might appear a bit messy
 
 ### ***2nd year, 1st semester Subjects***:
 - Artificial Intellegence
-- Databases
 - Web Programming
 
 ### ***3d year, 1st semester Subjects***:
