@@ -1,0 +1,11 @@
+/Users/centr/RiderProjects/Lw_C2_weather/TemperatureSensor/bin/Debug/net7.0/TemperatureSensor.deps.json
+/Users/centr/RiderProjects/Lw_C2_weather/TemperatureSensor/bin/Debug/net7.0/TemperatureSensor.dll
+/Users/centr/RiderProjects/Lw_C2_weather/TemperatureSensor/bin/Debug/net7.0/TemperatureSensor.pdb
+/Users/centr/RiderProjects/Lw_C2_weather/TemperatureSensor/obj/Debug/net7.0/TemperatureSensor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/centr/RiderProjects/Lw_C2_weather/TemperatureSensor/obj/Debug/net7.0/TemperatureSensor.AssemblyInfoInputs.cache
+/Users/centr/RiderProjects/Lw_C2_weather/TemperatureSensor/obj/Debug/net7.0/TemperatureSensor.AssemblyInfo.cs
+/Users/centr/RiderProjects/Lw_C2_weather/TemperatureSensor/obj/Debug/net7.0/TemperatureSensor.csproj.CoreCompileInputs.cache
+/Users/centr/RiderProjects/Lw_C2_weather/TemperatureSensor/obj/Debug/net7.0/TemperatureSensor.dll
+/Users/centr/RiderProjects/Lw_C2_weather/TemperatureSensor/obj/Debug/net7.0/refint/TemperatureSensor.dll
+/Users/centr/RiderProjects/Lw_C2_weather/TemperatureSensor/obj/Debug/net7.0/TemperatureSensor.pdb
+/Users/centr/RiderProjects/Lw_C2_weather/TemperatureSensor/obj/Debug/net7.0/ref/TemperatureSensor.dll
