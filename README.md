@@ -14,3 +14,5 @@
 
 ### ***3d year, 2nd semester***:
 - Component and Parallel Oriented Programming
+- SOA *(Service-oriented Architecture)*
+- Security *(Software Quality and Security)*
