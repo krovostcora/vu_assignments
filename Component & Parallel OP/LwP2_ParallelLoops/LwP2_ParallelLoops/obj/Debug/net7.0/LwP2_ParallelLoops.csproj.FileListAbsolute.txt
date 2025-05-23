@@ -1,0 +1,14 @@
+/Users/centr/RiderProjects/LwP2_ParallelLoops/LwP2_ParallelLoops/bin/Debug/net7.0/LwP2_ParallelLoops
+/Users/centr/RiderProjects/LwP2_ParallelLoops/LwP2_ParallelLoops/bin/Debug/net7.0/LwP2_ParallelLoops.deps.json
+/Users/centr/RiderProjects/LwP2_ParallelLoops/LwP2_ParallelLoops/bin/Debug/net7.0/LwP2_ParallelLoops.runtimeconfig.json
+/Users/centr/RiderProjects/LwP2_ParallelLoops/LwP2_ParallelLoops/bin/Debug/net7.0/LwP2_ParallelLoops.dll
+/Users/centr/RiderProjects/LwP2_ParallelLoops/LwP2_ParallelLoops/bin/Debug/net7.0/LwP2_ParallelLoops.pdb
+/Users/centr/RiderProjects/LwP2_ParallelLoops/LwP2_ParallelLoops/obj/Debug/net7.0/LwP2_ParallelLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/centr/RiderProjects/LwP2_ParallelLoops/LwP2_ParallelLoops/obj/Debug/net7.0/LwP2_ParallelLoops.AssemblyInfoInputs.cache
+/Users/centr/RiderProjects/LwP2_ParallelLoops/LwP2_ParallelLoops/obj/Debug/net7.0/LwP2_ParallelLoops.AssemblyInfo.cs
+/Users/centr/RiderProjects/LwP2_ParallelLoops/LwP2_ParallelLoops/obj/Debug/net7.0/LwP2_ParallelLoops.csproj.CoreCompileInputs.cache
+/Users/centr/RiderProjects/LwP2_ParallelLoops/LwP2_ParallelLoops/obj/Debug/net7.0/LwP2_ParallelLoops.dll
+/Users/centr/RiderProjects/LwP2_ParallelLoops/LwP2_ParallelLoops/obj/Debug/net7.0/refint/LwP2_ParallelLoops.dll
+/Users/centr/RiderProjects/LwP2_ParallelLoops/LwP2_ParallelLoops/obj/Debug/net7.0/LwP2_ParallelLoops.pdb
+/Users/centr/RiderProjects/LwP2_ParallelLoops/LwP2_ParallelLoops/obj/Debug/net7.0/LwP2_ParallelLoops.genruntimeconfig.cache
+/Users/centr/RiderProjects/LwP2_ParallelLoops/LwP2_ParallelLoops/obj/Debug/net7.0/ref/LwP2_ParallelLoops.dll

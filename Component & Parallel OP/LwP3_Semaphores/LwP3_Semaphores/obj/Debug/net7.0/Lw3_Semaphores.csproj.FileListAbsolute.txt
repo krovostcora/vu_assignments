@@ -1,0 +1,14 @@
+/Users/centr/RiderProjects/Lw3_Semaphores/Lw3_Semaphores/bin/Debug/net7.0/Lw3_Semaphores
+/Users/centr/RiderProjects/Lw3_Semaphores/Lw3_Semaphores/bin/Debug/net7.0/Lw3_Semaphores.deps.json
+/Users/centr/RiderProjects/Lw3_Semaphores/Lw3_Semaphores/bin/Debug/net7.0/Lw3_Semaphores.runtimeconfig.json
+/Users/centr/RiderProjects/Lw3_Semaphores/Lw3_Semaphores/bin/Debug/net7.0/Lw3_Semaphores.dll
+/Users/centr/RiderProjects/Lw3_Semaphores/Lw3_Semaphores/bin/Debug/net7.0/Lw3_Semaphores.pdb
+/Users/centr/RiderProjects/Lw3_Semaphores/Lw3_Semaphores/obj/Debug/net7.0/Lw3_Semaphores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/centr/RiderProjects/Lw3_Semaphores/Lw3_Semaphores/obj/Debug/net7.0/Lw3_Semaphores.AssemblyInfoInputs.cache
+/Users/centr/RiderProjects/Lw3_Semaphores/Lw3_Semaphores/obj/Debug/net7.0/Lw3_Semaphores.AssemblyInfo.cs
+/Users/centr/RiderProjects/Lw3_Semaphores/Lw3_Semaphores/obj/Debug/net7.0/Lw3_Semaphores.csproj.CoreCompileInputs.cache
+/Users/centr/RiderProjects/Lw3_Semaphores/Lw3_Semaphores/obj/Debug/net7.0/Lw3_Semaphores.dll
+/Users/centr/RiderProjects/Lw3_Semaphores/Lw3_Semaphores/obj/Debug/net7.0/refint/Lw3_Semaphores.dll
+/Users/centr/RiderProjects/Lw3_Semaphores/Lw3_Semaphores/obj/Debug/net7.0/Lw3_Semaphores.pdb
+/Users/centr/RiderProjects/Lw3_Semaphores/Lw3_Semaphores/obj/Debug/net7.0/Lw3_Semaphores.genruntimeconfig.cache
+/Users/centr/RiderProjects/Lw3_Semaphores/Lw3_Semaphores/obj/Debug/net7.0/ref/Lw3_Semaphores.dll

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LwP3_Semaphores", "LwP3_Semaphores\LwP3_Semaphores.csproj", "{B12D01B0-7CB6-4323-B9A6-6EC08CF7ACB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B12D01B0-7CB6-4323-B9A6-6EC08CF7ACB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B12D01B0-7CB6-4323-B9A6-6EC08CF7ACB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B12D01B0-7CB6-4323-B9A6-6EC08CF7ACB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B12D01B0-7CB6-4323-B9A6-6EC08CF7ACB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

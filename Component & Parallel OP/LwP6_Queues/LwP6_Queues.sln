@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LwP6_Queues", "LwP6_Queues\LwP6_Queues.csproj", "{2A760FA8-967E-408A-B2B6-6B2B35458B88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A760FA8-967E-408A-B2B6-6B2B35458B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A760FA8-967E-408A-B2B6-6B2B35458B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A760FA8-967E-408A-B2B6-6B2B35458B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A760FA8-967E-408A-B2B6-6B2B35458B88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
