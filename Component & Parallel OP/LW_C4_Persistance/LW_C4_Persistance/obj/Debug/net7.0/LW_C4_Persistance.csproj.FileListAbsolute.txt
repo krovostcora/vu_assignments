@@ -1,0 +1,14 @@
+/Users/centr/RiderProjects/LW_C4_Persistance/LW_C4_Persistance/bin/Debug/net7.0/LW_C4_Persistance
+/Users/centr/RiderProjects/LW_C4_Persistance/LW_C4_Persistance/bin/Debug/net7.0/LW_C4_Persistance.deps.json
+/Users/centr/RiderProjects/LW_C4_Persistance/LW_C4_Persistance/bin/Debug/net7.0/LW_C4_Persistance.runtimeconfig.json
+/Users/centr/RiderProjects/LW_C4_Persistance/LW_C4_Persistance/bin/Debug/net7.0/LW_C4_Persistance.dll
+/Users/centr/RiderProjects/LW_C4_Persistance/LW_C4_Persistance/bin/Debug/net7.0/LW_C4_Persistance.pdb
+/Users/centr/RiderProjects/LW_C4_Persistance/LW_C4_Persistance/obj/Debug/net7.0/LW_C4_Persistance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/centr/RiderProjects/LW_C4_Persistance/LW_C4_Persistance/obj/Debug/net7.0/LW_C4_Persistance.AssemblyInfoInputs.cache
+/Users/centr/RiderProjects/LW_C4_Persistance/LW_C4_Persistance/obj/Debug/net7.0/LW_C4_Persistance.AssemblyInfo.cs
+/Users/centr/RiderProjects/LW_C4_Persistance/LW_C4_Persistance/obj/Debug/net7.0/LW_C4_Persistance.csproj.CoreCompileInputs.cache
+/Users/centr/RiderProjects/LW_C4_Persistance/LW_C4_Persistance/obj/Debug/net7.0/LW_C4_Persistance.dll
+/Users/centr/RiderProjects/LW_C4_Persistance/LW_C4_Persistance/obj/Debug/net7.0/refint/LW_C4_Persistance.dll
+/Users/centr/RiderProjects/LW_C4_Persistance/LW_C4_Persistance/obj/Debug/net7.0/LW_C4_Persistance.pdb
+/Users/centr/RiderProjects/LW_C4_Persistance/LW_C4_Persistance/obj/Debug/net7.0/LW_C4_Persistance.genruntimeconfig.cache
+/Users/centr/RiderProjects/LW_C4_Persistance/LW_C4_Persistance/obj/Debug/net7.0/ref/LW_C4_Persistance.dll

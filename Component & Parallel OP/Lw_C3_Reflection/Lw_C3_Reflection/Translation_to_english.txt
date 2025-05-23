@@ -1,0 +1,30 @@
+from Lithuanian to English:
+
+Class: Kate.Class1  
+  Methods:  
+    GetType ()  
+    ToString ()  
+    Equals (Object obj)  
+    GetHashCode ()  
+  Properties:  
+
+Class: Kate.IKate  
+  Methods:  
+    Bark ()  
+    Purr ()  
+    Groom ()  
+    Run ()  
+    WagTail ()  
+  Properties:  
+
+Class: Kate.Kate  
+  Methods:  
+    Groom ()  
+    Bark ()  
+    Purr ()  
+    WagTail ()  
+    Run ()  
+    GetType ()  
+    ToString ()  
+    Equals (Object obj)  
+    GetHashCode ()
