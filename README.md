@@ -16,3 +16,4 @@
 - SOA *(Service-oriented Architecture)*
 - Security *(Software Quality and Security)*
 - PES *(Programming of Embedded Systems)*
+- networks (Computer Networks)
